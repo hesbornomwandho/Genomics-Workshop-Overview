@@ -18,11 +18,11 @@ The data we are going to use is part of a long-term evolution experiment led by 
 
 The experiment was designed to assess adaptation in E. coli. A population was propagated for more than 40,000 generations in a glucose-limited minimal medium (in most conditions glucose is the best carbon source for E. coli, providing faster growth than other sugars). This medium was supplemented with citrate, which E. coli cannot metabolize in the aerobic conditions of the experiment. Sequencing of the populations at regular time points revealed that spontaneous citrate-using variant (Cit+) appeared between 31,000 and 31,500 generations, causing an increase in population size and diversity. In addition, this experiment showed hypermutability in certain regions. Hypermutability is important and can help accelerate adaptation to novel environments, but also can be selected against in well-adapted populations
 
-# Assessing Read Quality	How can I describe the quality of my data?
 
-# Trimming and Filtering	How can I get rid of sequence data that doesn’t meet my quality standards?
-
-# Variant Calling Workflow	How do I find sequence variants between my sample and a reference genome?
-
-# Automating a Variant Calling Workflow
+# Bioinformatics workflow
+Assessing Read Quality	How can I describe the quality of my data?
+Trimming and Filtering	How can I get rid of sequence data that doesn’t meet my quality standards?
+Variant Calling Workflow	How do I find sequence variants between my sample and a reference genome?
+Automating a Variant Calling Workflow
+![Screenshot 2021-08-12 at 11 52 42](https://user-images.githubusercontent.com/72735085/129168753-b9232907-47f5-4ff1-adb8-dd4468781a75.png)
 
